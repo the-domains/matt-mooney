@@ -1,7 +1,7 @@
 name: Matt Mooney
 favicon: null
-layout_spectrum: 0.9439421975985169
-typography_spectrum: 0.8486816785298288
+layout_spectrum: 0.36481
+typography_spectrum: 0.6455
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.16704935184679925
-  lightness: 0.5213610166683793
+    - '#edeef0'
+    - '#232939'
+    - '#cea895'
+    - '#4390f4'
+    - '#9a6d5a'
+  brandStrength: 0.125
+  lightness: 0.4375
   saturation: 0.6211518519558012
-  rhythmicContrast: 0.22793513955548406
+  rhythmicContrast: 0.25
 purpose: []
